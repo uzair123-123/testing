@@ -7,10 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@uzair123-123"
+    "registry": "https://npm.pkg.github.com/"
   },
   "repository": "git@github.com:uzair123-123/testing.git",
   "author": "",
   "license": "ISC",
-  "gitHead": "d82a7179f88c4548b7b2ca90169f6bc28554e318"
+  "gitHead": "6b5afdac5a5893651774acfd3e9e679e81fc19fc"
 }
